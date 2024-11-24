@@ -37,4 +37,16 @@ build/
 ### Mac OS ###
 .DS_Store
 
+# Ignorar configuraciones de IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar archivos generados por Maven
+target/
+
+# Ignorar logs
+*.log
+
+# Ignorar otros archivos innecesarios
+.DS_Store
 
